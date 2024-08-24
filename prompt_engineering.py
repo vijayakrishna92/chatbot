@@ -9,8 +9,6 @@ Original file is located at
 ## **Zero shot** **Prompt**
 """
 
-!pip install langchain_community
-!pip install streamlit
 
 import os
 from langchain.llms import HuggingFaceEndpoint
